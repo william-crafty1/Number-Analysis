@@ -33,25 +33,31 @@ namespace Number_Analyzer
                     if (number % 2 == 0)
                     {
                         // Calculate the range of the given number
-                        Console.WriteLine(number + " is an even number.");
                         if(number >= 2 && number <= 25){
                             Console.WriteLine("Your even number is less than 25. \n Press any key to continue");
                             Console.ReadKey();
                         }
-                        if(number >= 26 && number <= 60){
+                        else if(number >= 26 && number <= 60){
                             Console.WriteLine("Your even number is greater than 25 but less than 60.\n Press any key to continue");
                             Console.ReadKey();
                         }
-                        if(number >= 60){
+                        else if(number >= 60){
                             Console.WriteLine("Your even number is greater than 60. \n Press any key to continue");
+                            Console.ReadKey();
+                        }
+                        else{
+                            Console.WriteLine(number + " is an even number.\n Press any key to continue.");
                             Console.ReadKey();
                         }
                     }
                     else
                     {
-                        Console.WriteLine(number + " is an odd number.");
                         if(number >= 60){
-                            Console.WriteLine("Your odd number is greater than 60. \n Press any key to continue");
+                            Console.WriteLine("Your odd number is greater than 60. \n Press any key to continue.");
+                            Console.ReadKey();
+                        }
+                        else{
+                            Console.WriteLine(number + " is an odd number.\n Press any key to continue.");
                             Console.ReadKey();
                         }
                     }
@@ -66,7 +72,9 @@ namespace Number_Analyzer
                         Console.WriteLine(baseNumber + "           " + numberSquared + "           " + numberCubed);
 
                     }
+                    Console.WriteLine("Press any key to continue");
                     Console.WriteLine("==========================================");
+                    Console.ReadKey();
                 }
                 else
                 {
