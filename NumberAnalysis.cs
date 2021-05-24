@@ -35,22 +35,38 @@ namespace Number_Analyzer
                         // Calculate the range of the given number
                         Console.WriteLine(number + " is an even number.");
                         if(number >= 2 && number <= 25){
-                            Console.WriteLine("Your even number is less than 25");
+                            Console.WriteLine("Your even number is less than 25. \n Press any key to continue");
+                            Console.ReadKey();
                         }
                         if(number >= 26 && number <= 60){
-                            Console.WriteLine("Your even number is greater than 25 but less than 60");
+                            Console.WriteLine("Your even number is greater than 25 but less than 60.\n Press any key to continue");
+                            Console.ReadKey();
                         }
                         if(number >= 60){
-                            Console.WriteLine("Your even number is greater than 60");
+                            Console.WriteLine("Your even number is greater than 60. \n Press any key to continue");
+                            Console.ReadKey();
                         }
                     }
                     else
                     {
                         Console.WriteLine(number + " is an odd number.");
                         if(number >= 60){
-                            Console.WriteLine("Your odd number is greater than 60.");
+                            Console.WriteLine("Your odd number is greater than 60. \n Press any key to continue");
+                            Console.ReadKey();
                         }
                     }
+
+                    // Number's cube and square values are then displayed
+                    Console.WriteLine("Number     Squared     Cubed");
+                    Console.WriteLine("======     =======     =====");
+                    for(double i = 1; i <= number; i++){
+                        double baseNumber = i;
+                        double numberSquared = Math.Pow(i, 2);
+                        double numberCubed = Math.Pow(i, 3);
+                        Console.WriteLine(baseNumber + "           " + numberSquared + "           " + numberCubed);
+
+                    }
+                    Console.WriteLine("==========================================");
                 }
                 else
                 {
