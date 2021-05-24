@@ -1,0 +1,16 @@
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\bin\Debug\net5.0\Number_Analyzer.exe
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\bin\Debug\net5.0\Number_Analyzer.deps.json
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\bin\Debug\net5.0\Number_Analyzer.runtimeconfig.json
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\bin\Debug\net5.0\Number_Analyzer.runtimeconfig.dev.json
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\bin\Debug\net5.0\Number_Analyzer.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\bin\Debug\net5.0\ref\Number_Analyzer.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\bin\Debug\net5.0\Number_Analyzer.pdb
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\obj\Debug\net5.0\Number_Analyzer.csprojAssemblyReference.cache
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\obj\Debug\net5.0\Number_Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\obj\Debug\net5.0\Number_Analyzer.AssemblyInfoInputs.cache
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\obj\Debug\net5.0\Number_Analyzer.AssemblyInfo.cs
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\obj\Debug\net5.0\Number_Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\obj\Debug\net5.0\Number_Analyzer.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\obj\Debug\net5.0\ref\Number_Analyzer.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\obj\Debug\net5.0\Number_Analyzer.pdb
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Number_Analyzer\obj\Debug\net5.0\Number_Analyzer.genruntimeconfig.cache
